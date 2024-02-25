@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-      ʙɪᴋᴀꜱʜ ᴍᴜꜱɪᴄ 2.0
+      ǫᴜᴇᴇɴ ᴍᴜꜱɪᴄ 2.0
 </h2>
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/4d7a997a6c8c4eb406829.jpg">
+  <img src="https://graph.org/file/1cb36adf83e0407f9961b.jpg">
 </p>
 
 
@@ -138,7 +138,7 @@ hieght="38.30" /></a>
 <h4>Click the button below to deploy Bikash Music Bot on Heroku!</h4>    
 
 <a
-href="https://heroku.com/deploy?template=https://github.com/BikashHalderNew/Bgtplayer"><img src="https://img.shields.io/badge/Deploy%20On%20Heroku-seagreen?style=for-the-badge&logo=Heroku" width="220"
+href="https://heroku.com/deploy?template=https://github.com/ASIFXQUEEN/BGTXQUEENXMUSIC"><img src="https://img.shields.io/badge/Deploy%20On%20Heroku-seagreen?style=for-the-badge&logo=Heroku" width="220"
 hieght="38.30" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -183,7 +183,7 @@ Press ``Ctrl+C `` when you're done with editing env and ``:wq`` to save the env<
 
 ## Now its time to give some credits ✨ :
 
-- [BGT](https://github.com/BikashHalder) For everything 
+- [ମିସ୍](https://github.com/BikashHalder) For everything 
 - [Aditya-Halder](https://github.com/AdityaHalder) For fixed errors
 - [YUKKI-MUSIC](https://github.com/TeamYukki) For Yukki Music Bot
 - [Dan](https://github.com/pyrogram) For pyrogram
