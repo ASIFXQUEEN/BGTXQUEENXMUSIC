@@ -183,7 +183,7 @@ Press ``Ctrl+C `` when you're done with editing env and ``:wq`` to save the env<
 
 ## Now its time to give some credits ✨ :
 
-- [ମିସ୍](https://github.com/BikashHalder) For everything 
+- [ମିସ୍](https://github.com/ASIFXQUEEN) For everything 
 - [Aditya-Halder](https://github.com/AdityaHalder) For fixed errors
 - [YUKKI-MUSIC](https://github.com/TeamYukki) For Yukki Music Bot
 - [Dan](https://github.com/pyrogram) For pyrogram
@@ -201,7 +201,7 @@ Press ``Ctrl+C `` when you're done with editing env and ``:wq`` to save the env<
 
 ## 🖥️ Owner Of This Repository :
 
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![ASIF MAHAMMAD](https://graph.org/file/1cb36adf83e0407f9961b.jpg)](https://t.me/ASHIF903)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
